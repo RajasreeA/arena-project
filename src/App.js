@@ -1,5 +1,5 @@
 import './App.css';
-import DatePicker from "./pages/Index";
+import DatePicker from "./page/Calendar";
 
 
 
